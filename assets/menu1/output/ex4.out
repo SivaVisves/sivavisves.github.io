@@ -1,0 +1,2 @@
+ArgumentError: Package JuMP not found in current path.
+- Run `import Pkg; Pkg.add("JuMP")` to install the JuMP package.
